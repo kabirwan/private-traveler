@@ -1,0 +1,43 @@
+
+
+
+.nav-item {
+    list-style-type: none;
+}
+
+.find-flights {
+    background-color: #f8f8f8;
+}
+.trip-card {
+    background-color: #ffffff;
+}
+
+.information {
+    background-image: url('../img/benefits_image.jpg');
+    box-sizing: border-box;
+}
+
+.Container {
+    background-color: #afaeae;
+    
+}
+.cont {
+    background-color: #afaeae;
+    display: flex;
+}
+
+.con {
+    margin-right: 55px;
+    height: 3%;
+    padding-top: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.class {
+    background-image: url('../img/benefits_image.jpg');
+}
+
+.bg-eff4ef {
+    background-color: #eff4ef;
+}
